@@ -1,4 +1,4 @@
-# Reproducible Research - Assigment 1
+# Reproducible Research - Assignment 1
 DT  
 04 August 2016  
 ***************************************************

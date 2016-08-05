@@ -1,12 +1,12 @@
 ---
-title: "Reproducible Research - Assigment 1"
+title: "Reproducible Research - Assignment 1"
 author: "DT"
 date: "04 August 2016"
-output: 
-  html_document: 
+output:
+  html_document:
     fig_caption: yes
     keep_md: yes
----
+  ---
 ***************************************************
 ```{r setup, include=FALSE, warning=FALSE, message=FALSE}
 options(width = 80)
